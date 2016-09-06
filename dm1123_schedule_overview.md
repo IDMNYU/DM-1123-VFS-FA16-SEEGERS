@@ -22,7 +22,7 @@
     <tr>
         <td>1</td>
         <td><br><a href="weekly_detail/dm1123_weekly_detail_wk01.md">Sept 6<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk01.md">Sept 8<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk01.md">Sept 8<br><strong>Gestalt Lecture and Exercise</strong></a></td>
     </tr>
     <tr>
         <td>2</td>
