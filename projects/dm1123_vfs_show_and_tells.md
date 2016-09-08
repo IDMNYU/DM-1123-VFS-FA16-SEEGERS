@@ -35,18 +35,18 @@
 
 **Artists, Designers & Collectives:**
 
-* Peter Saville (music / punk aesthetic) Matt Lecca and Matt Garrison
-* Chip Kidd (book jackets) - Ki Hyun Kim and Peter Kim
-* Josef Muller-Brockman (composition) - Nathan Mierski and Melissa Lopez
-* Aleksander Rodchenko (composition & photography) - WEnyao Tang and James Chen, Wed, Sept 16
-* Andy Warhol (image) - Yuening Bai and Jim Rhea
-* Tibor Kalman (image) - Francis Yang and Jane Xu
-* David Carson (type & image) Matt Gitlin and Leah Fong
+* Peter Saville (music / punk aesthetic)
+* Chip Kidd (book jackets)
+* Josef Muller-Brockman (composition)
+* Aleksander Rodchenko (composition & photography)
+* Andy Warhol (image)
+* Tibor Kalman (image)
+* David Carson (type & image)
 * Muriel Cooper (logo & composition)
-* Barbara Krueger (type & image) Grace Lee and  Sharah Lee
+* Barbara Krueger (type & image)
 * Stefan Sagmeister (type & image)
 * Paula Scher (type & image)
-* Shepard Fairey (semiotics) - Joon Hee Choi and Aite Egoigbe
+* Shepard Fairey (semiotics)
 * Saul Bass (for logos, not film titles) 
 
 
