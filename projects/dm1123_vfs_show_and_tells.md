@@ -35,21 +35,6 @@
 
 **Artists, Designers & Collectives:**
 
-<<<<<<< Updated upstream
-* Peter Saville (music / punk aesthetic)
-* Chip Kidd (book jackets)
-* Josef Muller-Brockman (composition)
-* Aleksander Rodchenko (composition & photography)
-* Andy Warhol (image)
-* Tibor Kalman (image)
-* David Carson (type & image)
-* Muriel Cooper (logo & composition)
-* Barbara Krueger (type & image)
-* Stefan Sagmeister (type & image)
-* Paula Scher (type & image)
-* Shepard Fairey (semiotics)
-* Saul Bass (for logos, not film titles) 
-=======
 - Tuesday, Sept 13 - Eric and Rob – Andy Warhol          
 - Tuesday, Sept 13 - Sean and Rokney – Barbara Kruger
 - Thursday, Sept 15 - Alejandra and Jane – Aleksandr Rodchenko
@@ -59,7 +44,6 @@
 - Tuesday, Sept 20 - Jason and Carissa – Paula Scher
 - Thursday, Sept 22 - Ari and Amy – Shephard Fairey
 - Thursday, Sept 22 - Bertin and Harvey – Muriel Cooper
->>>>>>> Stashed changes
 
 
 
