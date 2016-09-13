@@ -19,8 +19,8 @@
 <!-- dates -->
 <tr>
   <td valign="top">3</td>
-  <td valign="top"><strong>Sept 21</strong></td>
-  <td valign="top"><strong>Sept 23</strong></td>
+  <td valign="top"><strong>Sept 20</strong></td>
+  <td valign="top"><strong>Sept 22</strong></td>
 </tr>
 <!-- class -->
 <tr>
@@ -28,13 +28,15 @@
   <td valign="top" width="48%"> 
   
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due: </li>
-<ul>  <li>Chip Kidd (book jackets) - Ki Hyun Kim and Peter Kim </li>
-<li>Josef Muller-Brockman (composition) - Nathan Mierski and Melissa Lopez</li><br></ul>
+<ul>  <li>Drona and Roberto – Chip Kidd </li>
+<li>Gabi and Sierra – David Carson</li>
+<li>Jason and Carissa – Paula Scher
+<br></ul>
 
   <strong>Illustrator Demo</strong>
   <ul>
     </ul>
-  <li>Naomi Pan: <a href="http://wordmark.it">http://wordmark.it</a></li>
+  <li><a href="http://wordmark.it">http://wordmark.it</a></li>
   <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
   </ul>
   <br>
@@ -42,10 +44,9 @@
   </td>
   <td valign="top" width="48%"> 
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due: </li>
-  <ul><li>Shepard Fairey (semiotics) - Joon Hee Choi</li>
+  <ul><li>Ari and Amy – Shephard Fairey
   <li>
-Peter Saville (music / punk aesthetic) Matt Lecca and Matt Garrison</li>
-<li>Andy Warhol (image) - Yuening Bai and Jim Rhea</li></ul>
+Bertin and Harvey – Muriel Cooper</ul>
 <br>
   <li>Logos Lecture:</li>
       <ul>
@@ -84,7 +85,7 @@ Peter Saville (music / punk aesthetic) Matt Lecca and Matt Garrison</li>
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <strong>Do   <a href="../class_exercises/dm1123_class_exercise_color.md">Class Exercise: Color</a> as homework <br><br>
+
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>

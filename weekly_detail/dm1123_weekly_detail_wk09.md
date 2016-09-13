@@ -3,8 +3,8 @@
 ![NYU](nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Jesse Seegers • jts329@nyu.edu • Fall 2015 
-    Mondays & Wednesdays • 7:00-8:50PM • 2MTC MAGNET 813 • 3 credit hrs
+    Jesse Seegers • jts329@nyu.edu • Fall 2016 
+    Mondays & Wednesdays • 7:00-8:50PM • 2MTC MAGNET 816 • 3 credit hrs
 
 ---
 
@@ -19,8 +19,8 @@
 <!-- dates -->
 <tr>
   <td valign="top">10</td>
-  <td valign="top"><strongNov 2</strong></td>
-  <td valign="top"><strong>Nov 4</strong></td>
+  <td valign="top"><strongNov 1</strong></td>
+  <td valign="top"><strong>Nov 3</strong></td>
 </tr>
 <!-- class -->
 <tr>
