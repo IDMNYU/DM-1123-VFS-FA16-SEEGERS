@@ -11,7 +11,7 @@ Exercise: Recreate an Interface
 
 *Repetition is Learning, Repetition is Learning, Repetition is Learning…*
 
-Choose a digital interface that you will recreate using Adobe Illustrator
+**Choose a digital interface that you will recreate using Adobe Illustrator**
 
 -	Choose an interface that is complicated – the more challenging it is, the more you will learn, and the better and more capable you’ll be with Illustrator
 -	Use layers and groups as needed to create depth
@@ -20,7 +20,7 @@ Choose a digital interface that you will recreate using Adobe Illustrator
 -	Post your Illustrator .ai file to the according slack channel
     - Make sure to outline any exotic typography (at the very end)  
 
-SOME HELPFUL HINTS
+**SOME HELPFUL HINTS!**
 - Make sure you are in RGB color mode when you set up your file and your artboard size is the same as the real-life version.
     - Extra credit: if your interface is responsive (like a website, for example), create multiple artboards at each size, and use the elements you draw for one interface for the others
 - SAVE EARLY AND OFTEN
