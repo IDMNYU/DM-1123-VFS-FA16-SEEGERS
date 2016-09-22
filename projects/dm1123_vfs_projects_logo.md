@@ -12,7 +12,7 @@
 ## PROJECT: LOGO
 Create a visual mark in Adobe Illustrator.
 
-####Decide on your 4-8 letter/number combination.
+####Decide on your 4-8 letter/number combination to design a visual mark/logo mark for, that will be realized as an inspector stamp.
 * It can be all letter, all numbers, or a combination of letter and numbers 
 * write a few sentences describing the fictional organization, things like its name (is it an abbreviation, like NYU?), what it does, who its audience is, etc. Feel free to bring in more than one name if you're not sure.
 
