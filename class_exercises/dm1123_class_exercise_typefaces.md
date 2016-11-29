@@ -10,7 +10,7 @@
 
 ## Class Exercise: Typefaces
 
-* **Post to wordpress, your favorite typeface used within an image**
+* **Post to the exercise-typface Slack channel, your favorite typeface used within an image**
 
 * **List the typeface’s family (Consult http://thinkingwithtype.com):**
   * serif
@@ -25,5 +25,5 @@
      * [Fount](http://fount.artequalswork.com)
      * [What the Font](http://new.myfonts.com/WhatTheFont/)
 
-* **Discuss why the typeface is one of your favorites**
+* **In 2-3 sentences, discuss why the typeface is one of your favorites**
 
